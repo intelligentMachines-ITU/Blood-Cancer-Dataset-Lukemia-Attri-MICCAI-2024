@@ -1,6 +1,7 @@
 # A Large-scale Multi Domain Leukemia Dataset for the White Blood Cells Detection with Morphological Attributes for Explainability
 
-![architecture_AttriDet](https://github.com/AttriDet/AttriDet/assets/162625151/cc77e3fd-738d-4c64-b79f-73743483e255)
+![architecture_AttriDet](https://github.com/intelligentMachines-ITU/Blood-Cancer-Dataset/assets/155678287/e2004432-3411-4eea-bc27-cf2a6a6daab9)
+
 
 **Authors:** Abdul Rehman, Talha Meraj, Aiman Mahmood Minhas, Ayisha Imran, Mohsen Ali, Waqas Sultani
 
