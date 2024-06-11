@@ -1,0 +1,11 @@
+
+train: ../images/train
+val: ../images/val
+test: ../images/test
+
+
+# number of classes
+nc: 14
+
+# class names
+names: ["None","Myeloblast","Lymphoblast", "Neutrophil","Atypical lymphocyte","Promonocyte","Monoblast","Lymphocyte","Myelocyte","Abnormal promyelocyte", "Monocyte","Metamyelocyte","Eosinophil","Basophil"]

@@ -1,0 +1,9 @@
+train: /home/iml/Desktop/Talha/YOLOV5_Model/Road_Sign_Dataset/images/train/ 
+val:  /home/iml/Desktop/Talha/YOLOV5_Model/Road_Sign_Dataset/images/val/
+test: /home/iml/Desktop/Talha/YOLOV5_Model/Road_Sign_Dataset/images/test/
+
+# number of classes
+nc: 4
+
+# class names
+names: ["trafficlight","stop", "speedlimit","crosswalk"]

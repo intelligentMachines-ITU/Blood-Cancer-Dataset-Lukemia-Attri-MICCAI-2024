@@ -1,0 +1,9 @@
+train: /home/iml/Desktop/Talha/YOLOV5_Model/yolov5/data/WBC_dataset_sample/images/black_box_800/ 
+val:  /home/iml/Desktop/Talha/YOLOV5_Model/yolov5/data/WBC_dataset_sample/images/black_box_800/
+test: /home/iml/Desktop/Talha/YOLOV5_Model/yolov5/data/WBC_dataset_sample/images/test/
+
+# number of classes
+nc: 4
+
+# class names
+names: ["Zero","One","Two", "Three"]
