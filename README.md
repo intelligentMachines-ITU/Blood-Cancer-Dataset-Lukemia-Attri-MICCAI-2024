@@ -39,9 +39,9 @@ pip install -r requirements.txt  # install
                      |---test.json
                      |---val.json
       |---Images
-                     |---train
-                     |---test
-                     |---val
+                |---train
+                |---test
+                |---val
 ```
 
 # YOLO Format
