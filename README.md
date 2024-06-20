@@ -33,15 +33,15 @@ pip install -r requirements.txt  # install
 
 # JSON COCO Format
 ```
-|-COCO
-   |--WBC_1000_Micro
+|-COCO Dataset
       |---Annotations
                      |---train.json
                      |---test.json
                      |---val.json
-      |---Train_Images
-      |---Test_Images
-      |---Val_Images
+      |---Images
+                     |---train
+                     |---test
+                     |---val
 ```
 
 # YOLO Format
