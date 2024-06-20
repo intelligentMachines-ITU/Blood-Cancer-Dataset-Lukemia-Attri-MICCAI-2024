@@ -31,6 +31,21 @@ pip install -r requirements.txt  # install
 
 # Dataset 
 
+# JSON COCO Format
+```
+|-COCO
+   |--WBC_1000_Micro
+      |---Annotations
+                     |---train.json
+                     |---test.json
+                     |---val.json
+      |---Train_Images
+      |---Test_Images
+      |---Val_Images
+```
+
+# YOLO Format
+
 We construct the training and testing set for the yolo format settings, dataset can be downloaded from:
 
 labels prepared in YOLO format but with attributes information as: cls x y w h a1 a2 a3 a4 a5 a6 whereas standard yolo format of labels was cls x y w h 
