@@ -30,6 +30,7 @@ pip install -r requirements.txt  # install
 ```
 
 # Dataset 
+LeukemiaAttri dataset can be downloaded from the given link: [LeukemiaAttri dataset](https://drive.google.com/drive/folders/1J5ld-tK6cewj9wXWUi3rs6UdlHnDBe8U)
 
 # JSON COCO Format
 ```
@@ -37,11 +38,9 @@ pip install -r requirements.txt  # install
       |---Annotations
                      |---train.json
                      |---test.json
-                     |---val.json
       |---Images
                 |---train
                 |---test
-                |---val
 ```
 
 # YOLO Format
@@ -53,7 +52,6 @@ labels prepared in YOLO format but with attributes information as: cls x y w h a
 data -> WBC_v1.yaml
 ```
 train: ../images/train
-val: ../images/val
 test: ../images/test
 
 
