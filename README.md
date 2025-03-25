@@ -4,6 +4,7 @@
 
 
 **Authors:** Abdul Rehman, Talha Meraj, Aiman Mahmood Minhas, Ayisha Imran, Mohsen Ali, Waqas Sultani
+*The journal version of this paper is "Leveraging Sparse Annotations for Leukemia Diagnosis on the Large Leukemia Dataset"*
 
 **MICCAI 2024**
 
