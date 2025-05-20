@@ -21,7 +21,7 @@ We recommend the use of a Linux machine equipped with CUDA compatible GPUs. The 
 
 Clone repo:
 ```
-git clone https://github.com/AttriDet/AttriDet
+git clone https://github.com/intelligentMachines-ITU/Blood-Cancer-Dataset-Lukemia-Attri-MICCAI-2024.git
 cd AttriDet
 ```
  
